@@ -1,1 +1,1 @@
-# sahilpahapale-alzheimer-s-disease-prediction
+# Alzheimer-s-disease-prediction
